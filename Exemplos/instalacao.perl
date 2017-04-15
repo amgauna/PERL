@@ -14,5 +14,5 @@ make
 make test
 make install
 
-# Instalação no Windows download do Active PERL em https://www.activestate.com/activeperl
+# Active PERL - Instalação no Windows download em https://www.activestate.com/activeperl
 
