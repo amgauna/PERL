@@ -1,6 +1,6 @@
 # PERL - Instalação no Unix / Linux
 
-# esta primeira e segunda linhas são apenas sugestões para nstalação
+# esta primeira e segunda linhas são apenas sugestões para instalação
 mkdir /usr/src/temp  
 cd /usr/src/temp
 
@@ -15,4 +15,6 @@ make test
 make install
 
 # Active PERL - Instalação no Windows download em https://www.activestate.com/activeperl
+
+
 
